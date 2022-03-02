@@ -1,4 +1,4 @@
-This repo includes some basic projects. Any can simply use this repo to learn basic HTML, CSS, Javascript. 
+This repo includes some basic projects for beginners. Any can simply use this repo to learn basic HTML, CSS, Javascript. 
 
 
 ## Challenge yourSelf - refer code if needed 
