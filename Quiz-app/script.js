@@ -8,4 +8,4 @@ const quizData =[
         correct:'a'
 
     }
-]
+]p
